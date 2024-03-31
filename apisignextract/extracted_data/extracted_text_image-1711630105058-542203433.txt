@@ -1,0 +1,39 @@
+12:15 AM
+VO
+WiFi
+44
+I
+15. Redux
+Actions
+Reducers
+Store
+connect Function (React-Redux)
+16. Forms
+Handling Form Data
+Controlled Components
+Uncontrolled Components
+17.Side Effects
+useEffect for Data Fetching
+useEffect Cleanup
+18.AJAX Requests
+Fetch API
+Axios Library
+Error Handling
+19.Error Boundaries
+componentDidCatch (Class Components)
+ErrorBoundary Component (Functional
+Components)
+20. Testing
+Jest Testing Framework
+React Testing Library
+21. Best Practices
+Code Splitting
+PureComponent and React.memo
+Avoiding Reconciliation
+Keys for Dynamic Lists
+22.Optimization
+Memoization
+Profiling and Performance Monitoring
+23. Build and Deployment
+Create React App (CRA)
+Production Builds

@@ -1,0 +1,9 @@
+POST http://localhost:5500/api/extract-data HTTP/1.1
+
+Content-Type:multipart/form-data 
+# application/json 
+{
+    "filePath": "D:/textract/images/1992.jpg"
+}
+
+# @D:/textract/images/1992.jpg
